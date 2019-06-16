@@ -1,0 +1,11 @@
+{
+	"name": "grimerx-angels-fuelstack-rebalance",
+	"version": "0.2.0",
+	"factorio_version": "0.17",
+	"title": "GrimerX's Angel's Fuel Stack Rebalance",
+	"author": "GrimerX",
+	"description": "Rebalances fuel stack sizes to have progressive total MJ",
+	"homepage": "n/a",
+	"date": "6.1.2019",
+	"dependencies": ["base", "? bobplates", "? angelspetrochem", "? angelsbioprocessing", "? Nuclear Fuel", "? apm_power", "? apm_nuclear"]
+}
